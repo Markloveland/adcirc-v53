@@ -1,6 +1,6 @@
 # Instructions to build esmf
 ## 1. Copy tar file into a directory on lonestar
-## 2. Extract with tar -xvf filename
+## 2. Extract with "tar -xvf filename"
 ## 3. Create directory "install" on same level as esmf directory
 ## 4. export following variables(must be done inside of esmf directory):
 export ESMF_ABI=64     
