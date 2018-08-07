@@ -13,5 +13,5 @@ export ESMF_NETCDF=split
 export ESMF_NETCDF_INCLUDE=$TACC_NETCDF_INC     
 export ESMF_NETCDF_LIBPATH=$TACC_NETCDF_LIB     
 export ESMF_OS=Linux     
-## 5. type make all while inside of esmf directory
+## 5. type "make all" while inside of esmf directory
 
